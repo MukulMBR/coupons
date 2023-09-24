@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622866899821",
+    "project_id": "coupons-f3570",
+    "storage_bucket": "coupons-f3570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622866899821:android:2ab56a06eec646ac72b064",
+        "android_client_info": {
+          "package_name": "com.example.coupons"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBFM8jNHhfaJHaD7-6yfzFDGjq1ANNnFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
